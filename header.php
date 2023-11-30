@@ -1,0 +1,1 @@
+<center><a href = "indexx.php">Home page</a> | <a href = "account.php">My account | <a href = "members.php">Members | <a href = "indexx.php?action=logout">Log out</a></center>
